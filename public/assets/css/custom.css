@@ -1,0 +1,24 @@
+.navbar-custom {
+  background: #fff;
+  height: 60px; }
+  
+.sidebar ul.nav .active a {
+	color: #30a5ff;
+    background-color: transparent; 
+}
+
+.sidebar ul {
+  margin: 0px 0px; 
+}
+
+.dropdown a.dropdown-toggle {
+  color: #aaa;
+  height: 40px;
+  width: 40px;
+  padding-top: 11px;
+  padding-left: 9px; 
+}
+
+.border-bottom {
+  border-bottom: 1px solid #ccc;
+}
